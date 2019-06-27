@@ -1,7 +1,7 @@
 /**
  * 
  */
-package de.nexea.unitool.failities.logger;
+package de.juli.unitool.failities.logger;
 
 import java.util.List;
 

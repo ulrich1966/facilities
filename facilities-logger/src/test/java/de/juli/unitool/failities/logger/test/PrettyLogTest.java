@@ -1,4 +1,4 @@
-package de.nexea.unitool.failities.logger.test;
+package de.juli.unitool.failities.logger.test;
 
 import static org.junit.Assert.*;
 
@@ -10,7 +10,7 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import de.nexea.unitool.failities.logger.PrettyLog;
+import de.juli.unitool.failities.logger.PrettyLog;
 
 public class PrettyLogTest {
 	private static final Logger LOG = LoggerFactory.getLogger(PrettyLogTest.class);

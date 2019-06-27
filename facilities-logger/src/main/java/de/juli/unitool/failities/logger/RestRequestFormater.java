@@ -1,4 +1,4 @@
-package de.nexea.unitool.failities.logger;
+package de.juli.unitool.failities.logger;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
